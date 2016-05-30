@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Blue Theme",
+        "description": "This color is one of trust, honesty and loyalty. It is sincere, reserved and quiet, and doesn't like to make a fuss or draw attention. It hates confrontation, and likes to do things in its own way.",
+        "type": "HTML5",
+        "price": 9.99,
+        "images": [
+            {
+                "name": "blue.jpeg"
+            },
+            {
+                "name": "blue2.jpeg"
+            },
+            {
+                "name": "blue3.jpeg"
+            },
+            {
+                "name": "blue4.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Green Theme",
+        "description": "This color is one of trust, honesty and loyalty. It is sincere, reserved and quiet, and doesn't like to make a fuss or draw attention. It hates confrontation, and likes to do things in its own way.",
+        "type": "HTML5",
+        "price": 9.99,
+        "images": [
+            {
+                "name": "green.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Orange Theme",
+        "description": "This color is one of trust, honesty and loyalty. It is sincere, reserved and quiet, and doesn't like to make a fuss or draw attention. It hates confrontation, and likes to do things in its own way.",
+        "type": "HTML5",
+        "price": 9.99,
+        "images": [
+            {
+                "name": "orange.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Red Theme",
+        "description": "This color is one of trust, honesty and loyalty. It is sincere, reserved and quiet, and doesn't like to make a fuss or draw attention. It hates confrontation, and likes to do things in its own way.",
+        "type": "HTML5",
+        "price": 9.99,
+        "images": [
+            {
+                "name": "red.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Gray Theme",
+        "description": "This color is one of trust, honesty and loyalty. It is sincere, reserved and quiet, and doesn't like to make a fuss or draw attention. It hates confrontation, and likes to do things in its own way.",
+        "type": "HTML5",
+        "price": 9.99,
+        "images": [
+            {
+                "name": "gray.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Purple Theme",
+        "description": "This color is one of trust, honesty and loyalty. It is sincere, reserved and quiet, and doesn't like to make a fuss or draw attention. It hates confrontation, and likes to do things in its own way.",
+        "type": "HTML5",
+        "price": 9.99,
+        "images": [
+            {
+                "name": "purple.jpeg"
+            }
+        ]
+    }
+]
